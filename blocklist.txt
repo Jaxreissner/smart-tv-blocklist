@@ -1,3 +1,9 @@
+Then paste that into NextDNS > Blocklists > "Add a blocklist"
+
+## Warning
+
+Blocking some domains may affect firmware updates, app thumbnails, or search results on smart TVs. Use at your own risk.
+
 # Roku Ads & Telemetry
 ads.roku.com
 advertising.roku.com
