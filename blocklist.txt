@@ -1,0 +1,45 @@
+# Roku Ads & Telemetry
+ads.roku.com
+advertising.roku.com
+cloudservices.roku.com
+cooper.logs.roku.com
+p.ads.roku.com
+track.sr.roku.com
+image.roku.com
+roku.sr.roku.com
+roku.srpartner.com
+
+# Amazon Fire TV Tracking
+device-metrics-us.amazon.com
+fls-na.amazon.com
+aax-us-east.amazon-adsystem.com
+aax.amazon-adsystem.com
+amazon-adsystem.com
+dpm.demdex.net
+s.amazon-adsystem.com
+mads.amazon.com
+
+# Samsung / LG / Sony Smart TV Tracking
+ads.samsung.com
+gpm.samsungqbe.com
+samsungads.com
+us.samsungelectronics.com
+log-ingestion.samsungacr.com
+ocsp.samsungcloudsolution.com
+tracking.intl.samsungcloudsolution.com
+ib.adnxs.com
+tvx.adgrx.com
+smartclip.net
+sonyad.net
+applovin.com
+
+# General Ad/Tracking Domains
+googletagmanager.com
+doubleclick.net
+google-analytics.com
+analytics.yahoo.com
+ads.yahoo.com
+ads.facebook.com
+pixel.facebook.com
+adservice.google.com
+ad-delivery.net
